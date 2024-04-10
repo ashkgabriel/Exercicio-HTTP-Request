@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-http-request",
+  "version": "1.0.0",
+  "description": "Exercício de requisições HHTP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "HTTP",
+    "Requests"
+  ],
+  "author": "Gabriel Fortes Ashikaga",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "pnpm": "^8.15.6"
+  }
+}
